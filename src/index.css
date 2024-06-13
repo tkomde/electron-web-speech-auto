@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%
+}
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.0);
+}
+
+.window-full {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+p {
+  font-size: 60px;
+  color: #aaa;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
